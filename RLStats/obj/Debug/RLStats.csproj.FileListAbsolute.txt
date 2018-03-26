@@ -1,0 +1,29 @@
+D:\Rocket League replays\RLStats\RLStats\bin\Debug\RLStats.exe.config
+D:\Rocket League replays\RLStats\RLStats\bin\Debug\RLStats.exe
+D:\Rocket League replays\RLStats\RLStats\bin\Debug\RLStats.pdb
+D:\Rocket League replays\RLStats\RLStats\obj\Debug\RLStats.csprojResolveAssemblyReference.cache
+D:\Rocket League replays\RLStats\RLStats\obj\Debug\RLStats.Form1.resources
+D:\Rocket League replays\RLStats\RLStats\obj\Debug\RLStats.Properties.Resources.resources
+D:\Rocket League replays\RLStats\RLStats\obj\Debug\RLStats.csproj.GenerateResource.Cache
+D:\Rocket League replays\RLStats\RLStats\obj\Debug\RLStats.exe
+D:\Rocket League replays\RLStats\RLStats\obj\Debug\RLStats.pdb
+D:\RocketLeagueReplays\RLStats\RLStats\bin\Debug\RLStats.exe.config
+D:\RocketLeagueReplays\RLStats\RLStats\bin\Debug\RLStats.exe
+D:\RocketLeagueReplays\RLStats\RLStats\bin\Debug\RLStats.pdb
+D:\RocketLeagueReplays\RLStats\RLStats\obj\Debug\RLStats.csprojResolveAssemblyReference.cache
+D:\RocketLeagueReplays\RLStats\RLStats\obj\Debug\RLStats.Form1.resources
+D:\RocketLeagueReplays\RLStats\RLStats\obj\Debug\RLStats.Properties.Resources.resources
+D:\RocketLeagueReplays\RLStats\RLStats\obj\Debug\RLStats.csproj.GenerateResource.Cache
+D:\RocketLeagueReplays\RLStats\RLStats\obj\Debug\RLStats.exe
+D:\RocketLeagueReplays\RLStats\RLStats\obj\Debug\RLStats.pdb
+D:\RocketLeagueReplays\RLStats\RocketLeagueReplayStats\RLStats\bin\Debug\RLStats.exe.config
+D:\RocketLeagueReplays\RLStats\RocketLeagueReplayStats\RLStats\bin\Debug\RLStats.exe
+D:\RocketLeagueReplays\RLStats\RocketLeagueReplayStats\RLStats\bin\Debug\RLStats.pdb
+D:\RocketLeagueReplays\RLStats\RocketLeagueReplayStats\RLStats\obj\Debug\RLStats.csprojResolveAssemblyReference.cache
+D:\RocketLeagueReplays\RLStats\RocketLeagueReplayStats\RLStats\obj\Debug\RLStats.Form1.resources
+D:\RocketLeagueReplays\RLStats\RocketLeagueReplayStats\RLStats\obj\Debug\RLStats.Properties.Resources.resources
+D:\RocketLeagueReplays\RLStats\RocketLeagueReplayStats\RLStats\obj\Debug\RLStats.csproj.GenerateResource.Cache
+D:\RocketLeagueReplays\RLStats\RocketLeagueReplayStats\RLStats\obj\Debug\RLStats.exe
+D:\RocketLeagueReplays\RLStats\RocketLeagueReplayStats\RLStats\obj\Debug\RLStats.pdb
+D:\RocketLeagueReplays\RLStats\RocketLeagueReplayStats\RLStats\bin\Debug\Newtonsoft.Json.dll
+D:\RocketLeagueReplays\RLStats\RocketLeagueReplayStats\RLStats\bin\Debug\Newtonsoft.Json.xml
