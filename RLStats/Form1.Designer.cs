@@ -36,6 +36,7 @@
             this.txtReplayFile = new System.Windows.Forms.TextBox();
             this.btnParseJson = new System.Windows.Forms.Button();
             this.tmrDraw = new System.Windows.Forms.Timer(this.components);
+            this.pan = new System.Windows.Forms.Panel();
             this.SuspendLayout();
             // 
             // txtReplayPath
@@ -97,11 +98,22 @@
             this.tmrDraw.Interval = 10;
             this.tmrDraw.Tick += new System.EventHandler(this.tmrDraw_Tick);
             // 
+            // pan
+            // 
+            this.pan.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.pan.Location = new System.Drawing.Point(9, 93);
+            this.pan.Name = "pan";
+            this.pan.Size = new System.Drawing.Size(1332, 666);
+            this.pan.TabIndex = 6;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1353, 771);
+            this.Controls.Add(this.pan);
             this.Controls.Add(this.btnParseJson);
             this.Controls.Add(this.lblReplayFile);
             this.Controls.Add(this.txtReplayFile);
@@ -124,6 +136,7 @@
         private System.Windows.Forms.TextBox txtReplayFile;
         private System.Windows.Forms.Button btnParseJson;
         private System.Windows.Forms.Timer tmrDraw;
+        private System.Windows.Forms.Panel pan;
     }
 }
 
